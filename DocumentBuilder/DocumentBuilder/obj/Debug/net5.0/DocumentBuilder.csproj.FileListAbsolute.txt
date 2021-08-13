@@ -1,0 +1,16 @@
+F:\.projects\DocumentBuilder\DocumentBuilder\bin\Debug\net5.0\DocumentBuilder.exe
+F:\.projects\DocumentBuilder\DocumentBuilder\bin\Debug\net5.0\DocumentBuilder.deps.json
+F:\.projects\DocumentBuilder\DocumentBuilder\bin\Debug\net5.0\DocumentBuilder.runtimeconfig.json
+F:\.projects\DocumentBuilder\DocumentBuilder\bin\Debug\net5.0\DocumentBuilder.runtimeconfig.dev.json
+F:\.projects\DocumentBuilder\DocumentBuilder\bin\Debug\net5.0\DocumentBuilder.dll
+F:\.projects\DocumentBuilder\DocumentBuilder\bin\Debug\net5.0\ref\DocumentBuilder.dll
+F:\.projects\DocumentBuilder\DocumentBuilder\bin\Debug\net5.0\DocumentBuilder.pdb
+F:\.projects\DocumentBuilder\DocumentBuilder\obj\Debug\net5.0\DocumentBuilder.csproj.AssemblyReference.cache
+F:\.projects\DocumentBuilder\DocumentBuilder\obj\Debug\net5.0\DocumentBuilder.GeneratedMSBuildEditorConfig.editorconfig
+F:\.projects\DocumentBuilder\DocumentBuilder\obj\Debug\net5.0\DocumentBuilder.AssemblyInfoInputs.cache
+F:\.projects\DocumentBuilder\DocumentBuilder\obj\Debug\net5.0\DocumentBuilder.AssemblyInfo.cs
+F:\.projects\DocumentBuilder\DocumentBuilder\obj\Debug\net5.0\DocumentBuilder.csproj.CoreCompileInputs.cache
+F:\.projects\DocumentBuilder\DocumentBuilder\obj\Debug\net5.0\DocumentBuilder.dll
+F:\.projects\DocumentBuilder\DocumentBuilder\obj\Debug\net5.0\ref\DocumentBuilder.dll
+F:\.projects\DocumentBuilder\DocumentBuilder\obj\Debug\net5.0\DocumentBuilder.pdb
+F:\.projects\DocumentBuilder\DocumentBuilder\obj\Debug\net5.0\DocumentBuilder.genruntimeconfig.cache

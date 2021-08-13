@@ -1,1 +1,2 @@
-# DocumentBuilder
+## DocumentBuilder&nbsp; ![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+* This project uses the bridge, composite, and builder software design patterns to replicate a document builder for XML and JSON
